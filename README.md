@@ -1,4 +1,4 @@
-# Album of pictures
+# Album of pictures 🖼️
 
 ## Screenshots
 ![screenshot1](./img/screenshot1.png)
